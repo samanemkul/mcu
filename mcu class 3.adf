@@ -1,0 +1,11 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 08/15/2022
+A0B8B99299B9848DF9A54D0EC592463C "mcu class 3.mcu8051ide" 
+0 2 0 117 208 0
+0 3 3 116 4
+0 4 5 117 240 8
+0 5 8 37 240
+0 6 10 149 240
+0 7 12 164
+0 8 13 132

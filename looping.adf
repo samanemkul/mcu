@@ -1,0 +1,9 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 08/22/2022
+DB99D5B6EE4440B6A4E0EE864FA08063 "New folder/mcu/looping.asm" 
+0 3 0 116 0
+0 4 2 122 10
+0 5 4 36 3
+0 6 6 218 252
+0 7 8 253
